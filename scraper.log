@@ -1,0 +1,11 @@
+2025-06-24 01:58:16,551 - INFO - ====== WebDriver manager ======
+2025-06-24 01:58:19,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 01:58:20,290 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 01:58:20,478 - INFO - Driver [C:\Users\DCL\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-24 01:58:26,168 - INFO - Opened URL:https://quotes.toscrape.com/js
+2025-06-24 01:59:56,705 - INFO - ====== WebDriver manager ======
+2025-06-24 01:59:59,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 01:59:59,328 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-24 01:59:59,512 - INFO - Driver [C:\Users\DCL\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-24 02:00:06,952 - INFO - Opened URL:https://quotes.toscrape.com/js
+2025-06-24 02:00:15,138 - INFO - webdriver closed.
